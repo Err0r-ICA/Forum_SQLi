@@ -2,7 +2,7 @@
 
 # Forum_SQLi
 
-Automatic SQL injector web-forum based CMS
+<i>Automatic <b>SQL injector</b> web-forum based CMS</i>
 
 <p align="center">
 <a href="https://github.com/Err0r-ICA/followers"><img title="Followers" src="https://img.shields.io/github/followers/lovehacker404?color=blue&style=flat-square"></a>
@@ -11,11 +11,12 @@ Automatic SQL injector web-forum based CMS
 <a href="https://github.com/Err0r-ICA/World/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/lovehacker404/World?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
-## Usage:
-
+## Commands:
+```
 pip install requests colorama
 
 python sqli target.txt
+```
 
 ### My Accounts
 

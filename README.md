@@ -1,6 +1,7 @@
+## 📸 Screenshot 📸
 ![screenshot](https://i.postimg.cc/6Q25kB39/Screenshot-20201102-210618-Termux.jpg)
 
-# Forum_SQLi
+# Forum_SQLi 💥
 
 <i>Automatic <b>SQL injector</b> web-forum based CMS</i>
 
@@ -11,14 +12,14 @@
 <a href="https://github.com/Err0r-ICA/World/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/lovehacker404/World?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
-## Commands:
+## 💿 Installation 💿:
 ```
 pip install requests colorama
 
 python sqli target.txt
 ```
 
-### My Accounts
+## 👤 My Accounts 👤
 
 * [TELEGRAM](https://t.me/kalit3rmux)
 * [FACEBOOK](https://www.facebook.com/termuxxhacking)
